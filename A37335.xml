@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against the infection of the Jacobites, occasioned by last papers of Sir John Friend, Sir William Parkins, Mr. Cranburne &amp;c. who pretend to die in the communion of the Church of England. By a minister fo the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37335</idno>
+            <idno type="STC">Wing D56</idno>
+            <idno type="STC">ESTC R216707</idno>
+            <idno type="EEBO-CITATION">99828429</idno>
+            <idno type="PROQUEST">99828429</idno>
+            <idno type="VID">32856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1963:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against the infection of the Jacobites, occasioned by last papers of Sir John Friend, Sir William Parkins, Mr. Cranburne &amp;c. who pretend to die in the communion of the Church of England. By a minister fo the Church of England.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.D. for Jonathan Robinson at the Golden Lion in St. Paul' Church-yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCXCVI. [1696]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>On p.4, signed: M.D.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Friend, John, --  Sir, d. 1696.</term>
+               <term>Parkins, William, --  Sir.</term>
+               <term>Cranburne, Charles, d. 1696.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32856:1"/>
+            <head>An <hi>ANTIDOTE</hi> againſt the Infection of the <hi>Jacobites,</hi> occa<g ref="char:EOLhyphen"/>ſioned by the laſt Papers of Sir <hi>John Friend,</hi> Sir <hi>William Parkins,</hi> Mr. <hi>Cranburne,</hi> &amp;c. who pretend to die in the Communion of the Church of <hi>England.</hi>
+            </head>
+            <byline>By a Miniſter of the Church of <hi>England.</hi>
+            </byline>
+            <p>OUR Nation hath as much Reaſon to take heed of the wicked Principles of theſe de<g ref="char:EOLhyphen"/>luded and <hi>Jacobite Martyrs,</hi> as to abhor their barbarous and abominable Deſigns and Practices; and the rather, becauſe they are recommended to the Publick by that Conſideration that Men commonly have for the laſt Expreſſions of Perſons departing to another State, who in that Moment are not ſuſpected of Hypocriſy, or to conceal the real Sentiments of their Mind when they are to appear before a God of Sincerity and Truth. But we find by old and late Experience, that ſome Men will continue in the Juſtincation of their greateſt Villanies at the Hour of Death, and proclaim at the Gallows a Vindication of the worſt of Crimes. Leſt therefore the deviliſh Miſtakes and Deluſions of theſe Traitors ſhould have any Influence upon the Living, I ſuppoſe ſome Conſiderations may be ſeaſonable to be recom<g ref="char:EOLhyphen"/>mended to the Publick to prevent the Miſchiefs of a farther Infection, and to oblige us all that are true Engliſh-men, and of the Church of <hi>England,</hi> to be ſteady and faithful to the Cauſe of God and our holy Religion, in oppoſition to the Madneſs of their Diabolical Principles.</p>
+            <p>It may ſeem very ſtrange at the reading of their Papers, That Members of our excellent Com<g ref="char:EOLhyphen"/>munion, inſtructed in the bleſſed Rules of Chriſtianity, acquainted with the Tranſactions and Paſſages of former Years, of Engliſh Blood, of Eſtates and Birth, ſhould be ſo much miſled by a ſtrong Spirit of Deluſion, as to believe the Reſtoration of a Popiſh King, a declared Enemy of their Religion, Laws and Liberties, and that by the French Tyrannical Power, to be their Duty, and agreeable with the Laws of our Kingdom; or to believe and publickly to own the treacherous and baſe Murdering of an anointed and crowned Head in Poſſeſſion of the Govern<g ref="char:EOLhyphen"/>ment, nay, ſuch an one who ſpends himſelf and Eſtate, and expoſes his Perſon for the Preſer<g ref="char:EOLhyphen"/>vation of our Religion and Peace, and thereby to involve their Native Country in Blood and Ruine, to be the Cauſe of God and true Religion. Certainly Men muſt be diveſted of all Reaſon as well as Humanity, to ſuffer themſelves to be carried away to ſuch apparent Wickedneſs. Cer<g ref="char:EOLhyphen"/>tainly there is an invincible Spirit of Malice and Error that poſſeſſeth this ſeparate Party, that hath divided it ſelf from our Church and Communion: and, as I have taken notice, looks upon the reſt with a ſtrong Averſion, being deceived by the fooliſh Doctrines cried up and encouraged by the ſiniſter Deſigns of the former Reigns, and which leads them thus blindfolded to ſuch ter<g ref="char:EOLhyphen"/>rible Miſchiefs.</p>
+            <p>Never Principles more abominable than theſe which are expreſſed in theſe Papers, were ever publiſh'd by Papiſts, Turks, Infidels, or the worſt of Men: Never any more pernicious to the publick Safety either of Church or State. No wonder if ſuch Men make no Conſcience of Aſſaſſi<g ref="char:EOLhyphen"/>nations, Parricides, Murders, and delivering their Nation and Kindred to the baſe Tyranny of a foreign Power, who are perſwaded that God and Religion, and the Laws of the Realm, do engage them to all this Villany.</p>
+            <p>Pray let every one judg of theſe Jacobite Principles, which are to be gathered from the Pa<g ref="char:EOLhyphen"/>pers and Actions of theſe Traitors. I ſhall reduce them to theſe ſix or ſeven.</p>
+            <list>
+               <item>1. That Subjects are always bound to Duty and Allegiance to a Prince, tho departed to our Enemies, and in an active War to inſlave and ruine his Subjects and Country.</item>
+               <item>2. That no foreign nor domeſtick Power can alienate our Allegiance: The Meaning in rela<g ref="char:EOLhyphen"/>tion to us is, That no Obedience nor Allegiance is to be paid to our preſent King that protects us, tho the Laws and the publick Intereſt require it.</item>
+               <item>3. That it is juſtifiable, and their Duty, to endeavour to reſtore the late King by Aſſaſſina<g ref="char:EOLhyphen"/>tions, Cruelty, and the viſible Deſtruction of their Kindred and Nation.</item>
+               <item>4. That to murder our preſent King, introduce Popery with King <hi>James,</hi> and aſſiſt foreign Forces to invade us, is the Cauſe of God and true Religion.</item>
+               <item>5. That the Loyalty of the Church of <hi>England</hi> doth oblige its Members to ſacrifice all Inte<g ref="char:EOLhyphen"/>reſts of God, Religion, Laws and Liberties, Kindred and Nation, to the Pleaſure, Dominion and Advancement of one Man, tho a ſworn Enemy to its Profeſſion.</item>
+               <item>6. That this Nation is guilty of Rebellion and Perjury in the late Revolution.</item>
+               <item>7. That Hypocriſy, Diſſimulation, the Concealment of this Cauſe of God, and the taking of an Oath of Fidelity to the preſent Government, is practicable, and may conſiſt with a con<g ref="char:EOLhyphen"/>ſtant perſiſting and remaining in the real Intereſts of the late King.</item>
+            </list>
+            <pb n="2" facs="tcp:32856:2"/>
+            <p>Theſe are the Bedlam-Principles which obliged theſe Men to ſuch deſperate Attempts, and hardned them againſt the Danger of aſſaſſinating a Prince in the middle of his Guards. This is the Belief of the Jacobite Party, which makes them plot againſt the preſent Government, unea<g ref="char:EOLhyphen"/>ſy and reſtleſs until they draw upon themſelves and us utter Ruine, and the Calamities of an in<g ref="char:EOLhyphen"/>teſtine War.</p>
+            <p>In anſwer to the firſt. It is generally allowed and owned by Men of Reaſon and Conſcience, of all Nations, that the Duties of a King and his Subjects are Relatives; that the latter ſuppo<g ref="char:EOLhyphen"/>ſeth the former; that the Obligations of natural Allegiance, and of our former Oaths, are con<g ref="char:EOLhyphen"/>ditional and temporary, and are not binding for ever; and that in di<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs Caſes Subjects are freed from their Allegiance to their lawful Sovereign, particularly in this Caſe, where a King hath acted contrary to his Coronation-Oath, to overthrow the Fundamental Laws and Conſti<g ref="char:EOLhyphen"/>tutions of the Government, endeavoured the Subverſion of Religion, the Worſhip of God, and to introduce the Abominations of Idolatry, where a King hath endeavoured t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enſlave his Sub<g ref="char:EOLhyphen"/>jects to his tyrannical Will, forcing his Judges to ſubſcribe to ſuch Articles as were deſigned to diſannul all Order and Equity amongſt us, and chiefly in this caſe, when he is departed to our ſworn Enemies, and is in an active War aſſiſting them with his Counſel, Troops, and Aſſociates, and is ſo far from protecting our Perſons and Eſtates, that he breathes nothing but Venge<g ref="char:EOLhyphen"/>ance againſt us and our Religion: Witneſs his Words to one of his Courtiers at <hi>Dublin,</hi> when a faithful Proteſtant Jacob<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e was recommended to his Service, that he hated the Name of a Pro<g ref="char:EOLhyphen"/>teſtant, and chiefly a Proteſtant of the Church of <hi>England.</hi> Pray conſider what Protection and Favour the Profeſſors of our Religion are to expect from him, who already hath been ſo falſe and ungrateful to the Members of the Church of <hi>England.</hi> In his Brother's time they would not ſu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er the Bill of Excluſion to paſs, they put the Crown upon his Head, they ſupported his Intereſt againſt the Duke of <hi>Monmouth,</hi> they were conſtant and faithful to him, tho of another Perſwaſion. But in requital of all their good Offices he hath rewarded them with Frowns and Scorn, with Impriſonment of their Biſhops with the violent Invaſion of the Rights of their Colleges, with the Diſcountenance of their Perſons, and with Threats of greater Miſchiefs. And ſince his Exile he is grown more fierce and unreconcileable to the Members of our Church, tho never ſo ſincere to his Cauſe: Witneſs the unhappy Fates of Sir <hi>James Montgomery,</hi> Madam <hi>Aſhton,</hi> and many more, whoſe Loſs of Eſtates and Country for his ſake, could not perſwade this bigotted Prince to ſhew them the leaſt Favour, or to admit them to his Service without a pub<g ref="char:EOLhyphen"/>lick Abjuration of their God and Religion. Never any Romiſh or Heathen Perſecutor was ever more reſolved to deſtroy our Church, and the ſincere Profeſſors of it. Never any bore a greater Antipathy, and was more violent againſt us, than is the late King <hi>James;</hi> and does our former Obligations to him as Subjects bind us to caſt away our ſelves and the whole Nation to his merci<g ref="char:EOLhyphen"/>leſs Fury, and oblige us to a conſtant Allegiance to ſuch an one, to an open Enemy? What Methods have other Nations taken in ſuch a caſe? When <hi>Sigiſmund</hi> King of <hi>Sweden,</hi> a Papiſt Prince, ſucceeded to the Crown, he ſwore to maintain the Laws and Religion of the Country; but when he began to impoſe and bring in the Romiſh Superſtitions, the States of the Realm ba<g ref="char:EOLhyphen"/>niſhed him, and choſe in his ſtead Duke <hi>Charles</hi> his Couſin, the Father of <hi>Guſtavns Adolphus,</hi> who warred againſt him and the Poles his Subjects, and never would admit him again. The French Nation would never receive <hi>Henry</hi> 4. as their lawful King, but were reſolved to elect ano<g ref="char:EOLhyphen"/>ther, until their Laws and Religion were ſecured from a Change by an Abjuration of that Prince's former Profeſſion, and a publick Compliance with that which was generally profeſſed in the Country. The whole Kingdom, and all Men in it, are concerned by the Laws of God and Nature in the Preſervation of themſelves from Ruine and Deſtruction. And Government was not in<g ref="char:EOLhyphen"/>tended for the Advantage only of the Prince, and to gratify his Luſt and Pleaſure, but for the Be<g ref="char:EOLhyphen"/>nefit of the whole Society that are to look to themſelves when a Prince deſigns to betray them to the Power and Tyranny of their Enemies, no Man by any Obligations of former Loyalty and Allegiance being bound to deſtroy himſelf, much leſs the Body of a Kingdom. And there is a greater Duty that we owe to the publick Community that we belong to, than to any particular Member, tho the Head. And all our natural Obligations to a Prince, tho confirmed by Oaths, are always in reference to the Good, Peace, Happineſs and Proſperity of the Body Politick, unto which the Prince himſelf ought, as divers have done in former Ages, to ſacrifice himſelf and Fortune.</p>
+            <p n="2">2. That no foreign nor domeſtick Power can alienate our Allegiance. The Meaning, in re<g ref="char:EOLhyphen"/>lation to us, is, That no Obedience nor Allegiance is to be paid to our preſent King that pro<g ref="char:EOLhyphen"/>tects us, tho the Laws and the publick Intereſt require it: That our Governours could not law<g ref="char:EOLhyphen"/>fully demand that Security from us, to ſwear to bear true Faith and Allegiance to K. <hi>W.</hi> and Q. <hi>M.</hi> Certainly the Government, as it is now eſtabliſhed, ought in reaſon to ſecure it ſelf from the Deſigns of ill Men, and no Method more moderate, nor Oath more favourable, could be contrived, than that which was impoſed upon us, whatever Conſtruction is given to it by theſe Zealots for the Rights of the late K. <hi>J.</hi> it obliging us to nothing but a quiet and peaceable Beha<g ref="char:EOLhyphen"/>viour, and ties our Tongues and Hands that they might not plot and conſpire againſt the Go<g ref="char:EOLhyphen"/>vernment of this preſent King. And is there any thing more reaſonable than this Law? Shall ſuch Men live amongſt us? Shall they enjoy the favourable Countenance of the Government?
+<pb n="3" facs="tcp:32856:2"/>Shall they be protected in their Lives and Eſtates? and ſhall they be allowed at the ſame time to endeavour the Ruine of King and Kingdom? I cannot in ſo ſhort a Compaſs examine what Alle<g ref="char:EOLhyphen"/>giance is due to the Kings of <hi>England;</hi> how much we are bound in Duty to ſuch a King who hath forſaken us, and joined himſelf to our Enemies; what Power is in our Parliaments to require a new Oath of Allegiance? Whether it may not be as lawful for the Chieftains of our Politick Body to alienate our Allegiance from him who hath alienated all Duty and Kindneſs from us, and whoſe Religion forbids him to keep any Faith with us Hereticks, but binds him to deſtroy us with Fire and Sword. I know ſome will ſay, that Men by Religion don't forſeit their natural Rights; and that K. <hi>J.</hi> was thereby intituled to our Allegiance, and had a natural Right to go<g ref="char:EOLhyphen"/>vern us. Grant this, and a great deal more; but now that he ceaſeth to govern and protect us, and inſtead of being our King, he is become a deſperate Enemy; ſhall our former Allegiance to him hinder us from ſeeking to be ſheltered by another? The Self-Preſervation of a Kingdom is a natural Law that puts a great Difference between the Rights of a private Man and that of a publick Perſon, whoſe Right to our Allegiance is not to be allowed to overthrow and ruine a whole Kingdom.</p>
+            <p n="3">3. That it is juſtifiable, and their Duty, to endeavour to reſtore the late King, <hi>&amp;c.</hi> This is affirmed in relation to this grievous Plot of aſſaſſinating K. <hi>W.</hi> of inviting over a foreign Pow<g ref="char:EOLhyphen"/>er, <hi>&amp;c.</hi> to vindicate the Juſtice of the horrid Treaſon in the Eyes of our Engliſh World. Pray let conſiderate Men take notice how unchriſtian and barbarous is this Principle. Pray let them ſee the bloody Diſpoſition of theſe furious and Apoſtate Members of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> how unreaſonable and cruel are their Tempers?</p>
+            <p>The Reſtoration of King <hi>James</hi> in the Eyes of the ſober Part of the Nation, is look'd upon as one of the greateſt Miſchiefs that can befal us, and our Chriſtian World, in this juncture of Af<g ref="char:EOLhyphen"/>fairs, and muſt needs be followed either by an univerſal Apoſtacy from the Reformed Religion, together with the Loſs of the Liberties of <hi>Europe,</hi> or an univerſal Perſecution and Oppreſſion of all honeſt and good Men, who will be forced to yield to the Pleaſure of the French Tyrant, and the Romiſh Cruelty. It is a Folly to think otherwiſe of the Conjunction of the Forces of theſe three Kingdoms with the Power of <hi>Frame.</hi> Beſides, it hath been long ago reſolved by K. <hi>L.</hi> and K. <hi>J.</hi> to drive on this wicked Deſign together. When K. <hi>J.</hi> withdrew to <hi>Bruſſels</hi> in his Bro<g ref="char:EOLhyphen"/>ther's time, he paſſed from thence to <hi>Paris incognito,</hi> and was admitted to a long Conſultation and ſecret Council, where the haſtening of the Death of K. <hi>C.</hi> was reſolved, who was a Bar to their baſe Purpoſes: and immediately followed the violent Perſecution of the French Proteſtants. And the Jeſuits were ſo confident of Succeſs, that they publiſhed to the World, that within 20 Years not one would be found in <hi>Europe</hi> to own the Proteſtant Name. Some Years before a Nobleman of <hi>Provence,</hi> of the Reformed Religion, who had been ſucceſsful in <hi>Oliver</hi>'s time in an Embaſſy for the Proteſtants, (his Name was Monſieur <hi>Roux,</hi> or the Marquiſs <hi>de Marſilli</hi>) came over to K. <hi>C.</hi> to deſire his Mediation with the French King, and perſwade him to be more fa<g ref="char:EOLhyphen"/>vourable to the <hi>Hugonot</hi> Party. He applied himſelf to the then D. of <hi>Y.</hi> who under the Diſ<g ref="char:EOLhyphen"/>guiſe of a Church-of-<hi>England</hi>-man received the Sacrament with his Brother at <hi>Whitehall.</hi> He promiſed him all Favour, Protection, and Kindneſs, but inſtead of that betrayed the poor Man and his Errand to <hi>Colbert</hi> the French Embaſſador, who was placed behind the Hangings in the Duke's Chamber, with others, to hear the Complaints of the French Churches, which were ſo far from making any Impreſſion upon the Court of <hi>England,</hi> that this their Envoy being here threatned to be killed, his Eſtate confiſcated to the French King, he retreated towards <hi>Switzer<g ref="char:EOLhyphen"/>land,</hi> and in the Dukedom of <hi>Burgundy</hi> was violently taken by the French King's Appointment, carried to <hi>Paris,</hi> and there broken upon the Wheel by the Procurement of the late King, then Duke of <hi>York.</hi> Pray open your Eyes, ye blind and bewitched Adorers of K. <hi>J.</hi> ſo zealous for his Reſtoration; and ſee by this Man's Fate what we may reaſonably expect from K. <hi>James</hi>'s Faith and Kindneſs. And do ye judg this to be your Duty, and juſtifiable, to reſtore him to that Power which he hath already abuſed, and ſtained with innocent Blood more than once, and will infallibly abuſe it again, to your Deſtruction, and the Deſtruction of our Religion and King<g ref="char:EOLhyphen"/>dom? How ungrateful are you for God's great Mercy in delivering of us from ſuch a Prince? Was it St. <hi>Peter</hi>'s Duty to return into <hi>Herod</hi>'s Fetters when freed by an Angel? Was it juſtifiable in the Iſraelites to go back into <hi>Egypt,</hi> when delivered from <hi>Pharaoh</hi>'s Bondage by the Power of Heaven? And is it juſtifiable in you to reſtore an idolatrous Prince to a Throne from which he is excluded by the Hand of God, and by the Approbation of the beſt of the Nation? Into what Calamities had we been brought, if he had had Power to proceed as he began? What unthank<g ref="char:EOLhyphen"/>ful Wretches are ye for this great Mercy both to God and our preſent King, who hazarded all for your Advantage and Safety? And what, is it your Duty to reſtore the late King by baſely murdering of ſuch an obliging Prince? The End that you propoſe to your ſelves is abominable, and the Means worſe. And can ſuch a black Treaſon, aggravated by ſuch hainous Circum<g ref="char:EOLhyphen"/>ſtances, be juſtifiable, and your Duty? Never exclaim againſt the Gunpowder-Traitors, nor <hi>Ra<g ref="char:EOLhyphen"/>vaillacs,</hi> nor the <hi>Clements.</hi> This Act or Deſign of the Jacobites is more deviliſh, and a Crime of a deeper Die than theirs ever was. Neither did they juſtify their Murders and wicked Pur<g ref="char:EOLhyphen"/>poſes with the Pretences of Duty, as you do.</p>
+            <pb n="4" facs="tcp:32856:3"/>
+            <p n="4">4. The fourth Principle appears as horrid as the former, and beſpeaks you to have neither Rea<g ref="char:EOLhyphen"/>ſon nor Chriſtianity, nor the Senſe of Duty or of Intereſt in you; that to murder our preſent King, introduce Popery with K. <hi>James,</hi> and aſſiſt foreign Forces to invade us, is the Cauſe of God and true Religion. Was there ever any ſuch Perſwaſion entertained by Men? Did ever any judg, that the Overthrow of their Religion was their Duty; that the Deſtruction of God's Intereſt in the World, and the Promotion of the De<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s, was a Cauſe that God did approve of; that the Ruine of their native Country by foreign Forces was God's Cauſe, and agreeable with Law and Equity? <hi>Codrus</hi> King of <hi>Athens</hi> offered himſelf to Death to ſave his City from the Ene<g ref="char:EOLhyphen"/>mies Power. <hi>Themiſtocles</hi> poiſoned himſelf that his Country might not be invaded by the Per<g ref="char:EOLhyphen"/>ſians. And all the moral Heathens look'd upon it as their Dut<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſacrifice themſelves, to drive off a foreign Power from their native Soil. And do you think it your Daty to deliver your Country and Relations into the Hands of the French? Miſerable Wretches! What do you meat? What Advantage do ye propoſe to your ſelves? The Duke of <hi>Mantua</hi> in 1588, told a Papiſt and Engliſh Commander, that his Sword knew no Difference between a Proteſtant and a Papi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. And that Italian General who was in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ited into <hi>Mantua</hi> by the Guelfs, and had a Gate betrayed by them into his Hands, when he plundered without Exception both Factions, they complain<g ref="char:EOLhyphen"/>ed of his falſe Dealing; but he returned them this Anſwer, That their Perſons indeed were Guelfs <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d Friends, but their Riches, Goods and Eſtates were Gibe<gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, and of the contrary F<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>. The ſame Treatment you muſt expect from your French Friends when they come in with K. <hi>James:</hi> You muſt expect to loſe your Liberties and Eſtates with your Country, to be tranſported and treated at the Pleaſure of the Conqueror; and you to be look'd upon as the baſeſt of Men by thoſe whom you deſign to aſſiſt to invade us.</p>
+            <p n="5">5. For the fifth Principle, it is ſo ridiculous, and ſo full of Contradiction, as well as the reſt, that I leave it to the Examination of the ſober Reader to paſs t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſixth; That this Nation is guilty of Rebellion and Perjury by the late Revolution; for this is the Meaning of that Clauſe of Sir <hi>J. F</hi>'s Prayer, <hi>Deliver this Nation from the Guilt of Rebellion, Blood and Perjury.</hi> Wicked and uncharitable Souls! I would have you know, that ſuch of us as have complied with, and ſworn to ſupport the preſent Government, are far from being guilty either of Rebellion to K. <hi>James,</hi> or the Crime of Perjury; for whilſt he continued with us, and was our Governour. none more obedient and faithful to him than we were; and tho he acted ſo directly contrary <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Coronation-Oath, to his repeated Proteſtation before the Council, of ſupporting the Church of <hi>England,</hi> and maintaining our Liberties and Laws, yet we who are truly Members of the Church of <hi>England,</hi> thought it our Daty to be quiet, and yield unto him all lawful Obedience; never plotted againſt his Government, as you do againſt this, but patiently waited for the Sal<g ref="char:EOLhyphen"/>vation of God, which was brought to paſs by his mighty Power. But is our Compliance with this viable Act of divine Providence a Rebellion againſt K. <hi>James?</hi> It is a Madneſs for you to charge us with it. We ſhould be Rebels to the publick Intereſt and Safety of the Kingdom; we ſhould be guilty of the higheſt Ingratitude to our good God; we ſhould be unworthy of his former Care and Mercy, as well as unthankful to his Agent and Miniſter, if we did not aſſiſt and help the preſent King with our uttermoſt Endeavours. But how can you faſten upon us the odd Crime of Perjury, for our Oath of Fidelity unto K. <hi>William;</hi> whoſe Perſon and Government we are reſolved to maintain and pray for, being thereunto bound by all the Obligations of Reaſon, Religion, and Conſcience, and ſhall not be frighted from our Duty by your wicked and unchari<g ref="char:EOLhyphen"/>table Cenſures? But <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ray who is moſt guilty of Perjury; ſome of you who know that you are in the Intereſts of the late King, and yet have ſworn, as Sir <hi>W. P.</hi> did, to be faithful to King <hi>William,</hi> and nevertheleſs plot and conſpire againſt his Perſon and Government? This is Diſſi<g ref="char:EOLhyphen"/>mulation, Hypocriſy and Perjury with a witneſs. This is to act againſt all Conſcience and Mo<g ref="char:EOLhyphen"/>rality. And dare ſuch People pretend themſelves to be Members of the Church of <hi>England?</hi> a Church ſo excellent in its Conſtitution, ſo agreeable with primitive Chriſtianity, hating all Blood, Treaſon Hypocriſy and Baſeneſs, tho for the Advancement of the greateſt Good, and the Promotion of the beſt Cauſe: A Church that practiſeth and recommends the Rules of Cha<g ref="char:EOLhyphen"/>rity to all Men, Humility, Patience, Meekneſs and Moderation: A Church that never was ſtained with the Blood of Princes, tho deſperate Enemies, nor with Conſpiracy and Rebellion, but obligeth its Members to be obedient, peaceable and uſeful under the Governments appointed by God. You therefore, my Fellow-Subjects, who are really Diſciples and Members of ſuch a Church, withdraw your ſelves from the Tents and Society of theſe wicked Men, of theſe de<g ref="char:EOLhyphen"/>luded and bloody Jacobites. Let us unanimouſly aſſociate in the Defence of our Government and King, whom God preſerve from Enemies at home and abroad, and ſend him Victory and Succeſs. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>M. I</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. D.</hi> for <hi>Jonathan Robinſon</hi> at the Golden Lion in St. <hi>Paul'</hi> Church-yard. MDCXCVI.</p>
+            <pb facs="tcp:32856:3"/>
+            <pb n="4" facs="tcp:32856:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32856:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
